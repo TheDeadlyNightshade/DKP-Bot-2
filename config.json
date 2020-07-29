@@ -1,5 +1,5 @@
 {
 	"prefix": "!",
-	"token": "NzA5NDYzODI4NjcyNTQ0ODIy.XrnTlw.F9l-qX9Ni43uqd1dfubN8y9ep-o",
+	"token": "ya think im stupid lol",
 	"mongoPass": "mongodb://wolfgangdkp:tTl37GOOIcKlVGhr@cluster0-shard-00-00-supss.mongodb.net:27017,cluster0-shard-00-01-supss.mongodb.net:27017,cluster0-shard-00-02-supss.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority"
 }
