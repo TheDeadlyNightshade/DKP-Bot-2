@@ -1,2 +1,2 @@
-node react2.js
+node .
 PAUSE
