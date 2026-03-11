@@ -11,6 +11,6 @@
   "dependencies": {
     "ascii-table": "0.0.9",
     "fs": "0.0.1-security",
-    "mongoose": "^5.9.14"
+    "mongoose": "^5.13.23"
   }
 }
